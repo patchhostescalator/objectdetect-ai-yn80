@@ -1,4 +1,4 @@
-# 
+# Advanced ObjectDetect script. Download and install with error-handling and python-compatibility — fast, secure, and easy to use.
 
 
 
